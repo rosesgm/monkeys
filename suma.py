@@ -6,3 +6,7 @@ print("La suma es: ", a+b)
 print("mono B ")
 
 print("Mmmmh monkey")
+
+print("monkey C")
+
+print("hola criaturitas del señor")
